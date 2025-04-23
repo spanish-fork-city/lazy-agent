@@ -2,6 +2,8 @@ import os
 import requests
 from dotenv import load_dotenv
 from app.router import get_relevant_filename  # NEW
+from app.retriever import fetch_html_from_github
+from app.prompt_builder import build_prompt
 
 load_dotenv()
 REPO_RAW_BASE = os.getenv("REPO_RAW_BASE")
