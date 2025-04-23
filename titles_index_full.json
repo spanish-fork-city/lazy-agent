@@ -1,0 +1,206 @@
+{
+  "title01_general_provisions.html": {
+    "keywords": [
+      "definitions",
+      "rules of construction",
+      "penalties"
+    ]
+  },
+  "title02_government.html": {
+    "keywords": [
+      "mayor",
+      "city council",
+      "ordinance",
+      "government"
+    ]
+  },
+  "title03_revenue_and_finance.html": {
+    "keywords": [
+      "budget",
+      "tax",
+      "fees",
+      "funds",
+      "fiscal"
+    ]
+  },
+  "title04_employee_personnel.html": {
+    "keywords": [
+      "employee",
+      "personnel",
+      "merit system",
+      "retirement",
+      "volunteer firefighter"
+    ]
+  },
+  "title05_business_licenses.html": {
+    "keywords": [
+      "business",
+      "licensing",
+      "permits",
+      "alcohol",
+      "solicitation"
+    ]
+  },
+  "title06_animals.html": {
+    "keywords": [
+      "animal",
+      "pets",
+      "livestock",
+      "control",
+      "kennels"
+    ]
+  },
+  "title08_nuisances.html": {
+    "keywords": [
+      "nuisance",
+      "weeds",
+      "noise",
+      "enforcement"
+    ]
+  },
+  "title09_peace_morals_welfare.html": {
+    "keywords": [
+      "curfew",
+      "fireworks",
+      "disorderly conduct",
+      "loitering"
+    ]
+  },
+  "title10_traffic_parking.html": {
+    "keywords": [
+      "traffic",
+      "parking",
+      "impound",
+      "speed",
+      "stop sign"
+    ]
+  },
+  "title12_streets_sidewalks.html": {
+    "keywords": [
+      "excavation",
+      "sidewalk",
+      "tree",
+      "parade",
+      "encroachment"
+    ]
+  },
+  "title13_utilities.html": {
+    "keywords": [
+      "water",
+      "sewer",
+      "storm drain",
+      "irrigation",
+      "power"
+    ]
+  },
+  "title14_buildings_construction.html": {
+    "keywords": [
+      "building",
+      "permit",
+      "code",
+      "inspection"
+    ]
+  },
+  "title15_land_use.html": {
+    "keywords": [
+      "zoning",
+      "land use",
+      "setback",
+      "development",
+      "adu"
+    ]
+  },
+  "construction-&-design-standards/improvement-requirements.html": {
+    "keywords": [
+      "easements",
+      "traffic control",
+      "surveying",
+      "fill material"
+    ]
+  },
+  "construction-&-design-standards/engineering-standards.html": {
+    "keywords": [
+      "geotechnical",
+      "slope",
+      "retaining wall",
+      "bank stabilization"
+    ]
+  },
+  "construction-&-design-standards/plan-preparation.html": {
+    "keywords": [
+      "plan sheets",
+      "CAD",
+      "submittals",
+      "driveway",
+      "utility plans"
+    ]
+  },
+  "construction-&-design-standards/street-improvements.html": {
+    "keywords": [
+      "street",
+      "curb",
+      "gutter",
+      "sidewalk",
+      "cul-de-sac"
+    ]
+  },
+  "construction-&-design-standards/utility-improvements.html": {
+    "keywords": [
+      "utility",
+      "electric",
+      "sewer",
+      "storm drain",
+      "water"
+    ]
+  },
+  "construction-&-design-standards/contractor-requirements.html": {
+    "keywords": [
+      "insurance",
+      "bond",
+      "prequalification"
+    ]
+  },
+  "construction-&-design-standards/street-pavement.html": {
+    "keywords": [
+      "pavement",
+      "asphalt",
+      "striping",
+      "pedestrian ramp"
+    ]
+  },
+  "public-works/sanitary-sewer-management.html": {
+    "keywords": [
+      "sanitary sewer",
+      "inflow",
+      "grease",
+      "wastewater",
+      "bmp"
+    ]
+  },
+  "public-works/storm-water.html": {
+    "keywords": [
+      "stormwater",
+      "pollution",
+      "runoff",
+      "swppp",
+      "ms4"
+    ]
+  },
+  "public-works/water-system.html": {
+    "keywords": [
+      "potable water",
+      "hydrant",
+      "valve",
+      "meter",
+      "distribution"
+    ]
+  },
+  "public-works/solid-waste.html": {
+    "keywords": [
+      "solid waste",
+      "trash",
+      "garbage",
+      "collection"
+    ]
+  }
+}
