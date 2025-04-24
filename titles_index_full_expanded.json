@@ -1,0 +1,224 @@
+{
+  "titles/title01_general_provisions.html": {
+    "keywords": [
+      "definitions",
+      "interpretation",
+      "construction",
+      "penalties",
+      "general rules",
+      "ordinances",
+      "terms defined",
+      "how to read the code",
+      "code applicability",
+      "statutory references"
+    ]
+  },
+  "titles/title02_government.html": {
+    "keywords": [
+      "mayor",
+      "city council",
+      "municipal election",
+      "government structure",
+      "officers",
+      "duties",
+      "residency",
+      "voting",
+      "public officials",
+      "city manager",
+      "ethics",
+      "city attorney",
+      "council meetings"
+    ]
+  },
+  "titles/title03_revenue_and_finance.html": {
+    "keywords": [
+      "budget",
+      "revenue",
+      "finance",
+      "taxes",
+      "fees",
+      "appropriation",
+      "utility billing",
+      "financial officer",
+      "fiscal year",
+      "capital projects",
+      "purchasing",
+      "funding sources",
+      "reimbursements"
+    ]
+  },
+  "titles/title04_employee_personnel.html": {
+    "keywords": [
+      "personnel",
+      "employment",
+      "human resources",
+      "merit system",
+      "employee policies",
+      "benefits",
+      "discipline",
+      "volunteer firefighter",
+      "leave of absence",
+      "retirement",
+      "sick leave",
+      "employment conditions"
+    ]
+  },
+  "titles/title05_business_licenses.html": {
+    "keywords": [
+      "business",
+      "licensing",
+      "permits",
+      "alcohol license",
+      "solicitors",
+      "mobile vendors",
+      "fee schedule",
+      "application process",
+      "business registration",
+      "revocation",
+      "compliance",
+      "zoning review"
+    ]
+  },
+  "titles/title06_animals.html": {
+    "keywords": [
+      "animals",
+      "pets",
+      "dogs",
+      "cats",
+      "leash law",
+      "kennels",
+      "livestock",
+      "animal control",
+      "rabies",
+      "animal noise",
+      "impound",
+      "domestic animals",
+      "exotic animals"
+    ]
+  },
+  "titles/title08_nuisances.html": {
+    "keywords": [
+      "nuisance",
+      "weeds",
+      "debris",
+      "junk vehicles",
+      "trash",
+      "noise",
+      "enforcement",
+      "abatement",
+      "health hazards",
+      "public nuisance",
+      "complaint process",
+      "property maintenance"
+    ]
+  },
+  "titles/title09_peace_morals_welfare.html": {
+    "keywords": [
+      "peace",
+      "morals",
+      "curfew",
+      "public conduct",
+      "disorderly conduct",
+      "fireworks",
+      "alcohol",
+      "nudity",
+      "minor offenses",
+      "graffiti",
+      "loitering",
+      "public nuisance",
+      "youth laws"
+    ]
+  },
+  "titles/title10_traffic_parking.html": {
+    "keywords": [
+      "traffic",
+      "parking",
+      "vehicles",
+      "impound",
+      "parking violations",
+      "speed limit",
+      "no parking",
+      "bike laws",
+      "stop sign",
+      "handicap spaces",
+      "loading zones",
+      "parking citations",
+      "towing"
+    ]
+  },
+  "titles/title12_streets_sidewalks.html": {
+    "keywords": [
+      "streets",
+      "sidewalks",
+      "excavation",
+      "tree planting",
+      "driveway access",
+      "public right of way",
+      "encroachment",
+      "street closures",
+      "road use",
+      "utilities under streets",
+      "block parties"
+    ]
+  },
+  "titles/title13_utilities.html": {
+    "keywords": [
+      "utilities",
+      "water service",
+      "sewer system",
+      "storm drain",
+      "irrigation",
+      "power",
+      "electric service",
+      "utility rates",
+      "metering",
+      "shutoff",
+      "billing",
+      "wastewater",
+      "connection fees"
+    ]
+  },
+  "titles/title14_buildings_construction.html": {
+    "keywords": [
+      "building code",
+      "construction",
+      "permits",
+      "building inspection",
+      "occupancy",
+      "contractor",
+      "plumbing",
+      "electrical",
+      "code compliance",
+      "site plans",
+      "inspections",
+      "safety",
+      "fire code"
+    ]
+  },
+  "title_15_land_use.html": {
+    "keywords": [
+      "zoning",
+      "land use",
+      "setback",
+      "development",
+      "adu",
+      "accessory dwelling unit",
+      "residential zones",
+      "commercial zoning",
+      "conditional use",
+      "planning commission",
+      "zoning district",
+      "site plan",
+      "lot size",
+      "duplex",
+      "triplex",
+      "vacant lot",
+      "building envelope",
+      "variance",
+      "subdivision",
+      "occupancy",
+      "unit count",
+      "dwelling"
+    ]
+  }
+}
